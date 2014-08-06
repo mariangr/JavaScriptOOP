@@ -1,0 +1,5 @@
+D:\Projects\JavaScriptOOP\1.01 DOMManipulation\1.01 DOMManipulation\bin\1.01 DOMManipulation.dll
+D:\Projects\JavaScriptOOP\1.01 DOMManipulation\1.01 DOMManipulation\bin\1.01 DOMManipulation.pdb
+D:\Projects\JavaScriptOOP\1.01 DOMManipulation\1.01 DOMManipulation\obj\Debug\1.01 DOMManipulation.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScriptOOP\1.01 DOMManipulation\1.01 DOMManipulation\obj\Debug\1.01 DOMManipulation.dll
+D:\Projects\JavaScriptOOP\1.01 DOMManipulation\1.01 DOMManipulation\obj\Debug\1.01 DOMManipulation.pdb
