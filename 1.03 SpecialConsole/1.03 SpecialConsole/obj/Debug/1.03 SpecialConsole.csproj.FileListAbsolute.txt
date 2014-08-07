@@ -1,0 +1,5 @@
+D:\Projects\JavaScriptOOP\1.03 SpecialConsole\1.03 SpecialConsole\bin\1.03 SpecialConsole.dll
+D:\Projects\JavaScriptOOP\1.03 SpecialConsole\1.03 SpecialConsole\bin\1.03 SpecialConsole.pdb
+D:\Projects\JavaScriptOOP\1.03 SpecialConsole\1.03 SpecialConsole\obj\Debug\1.03 SpecialConsole.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScriptOOP\1.03 SpecialConsole\1.03 SpecialConsole\obj\Debug\1.03 SpecialConsole.dll
+D:\Projects\JavaScriptOOP\1.03 SpecialConsole\1.03 SpecialConsole\obj\Debug\1.03 SpecialConsole.pdb
